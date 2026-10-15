@@ -44,10 +44,12 @@ Caso contrário:
 
 Exibir as leituras e o estado da irrigação
 Repetir
+```
+---
 
 ### Código completo
 
-'''text
+```text
 #include "DHT.h"
 
 #define DHTPIN 15    // Fio azul do DHT22 no pino 15
